@@ -6,7 +6,7 @@ Construyo aplicaciones web completas, de la base de datos a la pantalla, y las d
 
 - Busco mi primer empleo formal en **desarrollo de software, IA y automatización o soporte técnico**, remoto o en Medellín.
 - Me gradúo del SENA el **4 de diciembre de 2026**. Estoy cursando los bootcamps de **IA y Programación de EAFIT** (Estud-IA 2026).
-- 📫 [LinkedIn](https://www.linkedin.com/in/jeronimo-uribe-garces-a1b4123b9/)
+- 📫 [LinkedIn](https://www.linkedin.com/in/jeronimo-uribe-garces/)
 
 ---
 
