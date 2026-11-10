@@ -2,10 +2,10 @@
 
 **Técnico en Programación de Software (SENA)** · Medellín, Colombia
 
-Construyo aplicaciones web completas, de la base de datos a la pantalla, y las dejo funcionando en producción. Lidero un equipo de 5 programadores en Don Hass y tengo clientes reales como desarrollador independiente. Uso inteligencia artificial para automatizar tareas y entregar más rápido.
+Desarrollo aplicaciones web y bots con Python, JavaScript y SQL. Aquí están algunos proyectos en los que he trabajado.
 
-- Busco mi primer empleo formal en **desarrollo de software, IA y automatización o soporte técnico**, remoto o en Medellín.
-- Me gradúo del SENA el **4 de diciembre de 2026**. Estoy cursando los bootcamps de **IA y Programación de EAFIT** (Estud-IA 2026).
+- Busco empleo o práctica en desarrollo de software, automatización o soporte técnico, en Medellín o remoto.
+- Me gradúo del SENA el 4 de diciembre de 2026. Curso los bootcamps de IA y Programación de EAFIT (Estud-IA 2026).
 - 📫 [LinkedIn](https://www.linkedin.com/in/jeronimo-uribe-garces/)
 
 ---
@@ -17,7 +17,7 @@ Construyo aplicaciones web completas, de la base de datos a la pantalla, y las d
 ### Don Hass · Plataforma para fincas de aguacate Hass
 <img src="assets/donhass.jpg" alt="Pantalla de ingreso de Don Hass" width="560">
 
-Plataforma web para una asociación de productores de aguacate Hass. **Lidero el proyecto y un equipo de 5 programadores**: defino prioridades, reviso el código y respondo por la calidad de cada entrega.
+Plataforma web para una asociación de productores de aguacate Hass. Coordino el proyecto con un equipo de 5 programadores: organizo las prioridades y reviso el código.
 
 - Digitaliza el registro diario de cada finca: labores, aplicaciones y cosechas.
 - Genera solo el informe de auditoría trimestral (33 hojas de Excel) que antes se llenaba a mano.
@@ -28,7 +28,7 @@ Plataforma web para una asociación de productores de aguacate Hass. **Lidero el
 ### MercaPlus · Plataforma para vendedores de Mercado Libre
 <a href="https://mercaplus.netlify.app"><img src="assets/mercaplus.jpg" alt="Página de MercaPlus" width="560"></a>
 
-Plataforma web (SaaS) para vendedores de Mercado Libre en Colombia. La desarrollé y la mantengo para un cliente comercial.
+Plataforma web (SaaS) para vendedores de Mercado Libre en Colombia, hecha para un cliente comercial.
 
 - La IA responde las preguntas de los compradores a cualquier hora.
 - Calcula sola la ganancia de cada venta y reúne todo el negocio en un panel.
